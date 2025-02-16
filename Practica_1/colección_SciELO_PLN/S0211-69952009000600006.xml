@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952009000600006</identifier>
+<datestamp>2010-03-10</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Vallejos,A.]]></dc:creator>
+<dc:subject><![CDATA[Pandemia]]></dc:subject>
+<dc:subject><![CDATA[Influenza A(H1N1),]]></dc:subject>
+<dc:subject><![CDATA[Fallo Renal Agudo]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Trasplante Renal]]></dc:subject>
+<dc:subject><![CDATA[Procuración de órganos]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.29 n.6 2009]]></dc:source>
+<dc:date>2009-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952009000600006</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Rol de la Nefrología en la pandemia por Influenza A (H1N1): Puesta al día]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[The role of nephrology in the influenza A (H1N1) pandemic update]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[En junio de 2009, la OMS declaró la pandemia por virus de la influenza A de origen porcino (H1N1). Desde entonces, los nefrólogos fuimos afectados en varias de nuestras actividades. Disminuyó la asistencia al trabajo del personal de salud al cuidado de pacientes renales crónicos. Aparecieron nuevos casos de fallo renal agudo asociados a la infección viral, la mayoría en adultos jóvenes, con alta tasa de mortalidad. Hubo contagios en pacientes trasplantados renales y se retrajo transitoriamente la procuración de órganos en la semanas de mayor contagio. Entidades científicas se movilizaron para consensuar protocolos de evaluación y tratamiento con el fin de disminuir el impacto de la pandemia en pacientes renales.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[In June 2009, WHO declared pandemic swine origin influenza A virus (H1N1). Since then, nephrologists were involved in several of our activities. Decreased work attendance of healthcare for chronic renal patients. Appeared new cases of acute renal failure associated with viral infection, mostly in young adults, with high mortality rate. There were infections in renal transplant patients and temporarily decreased the organs procurement in the weeks of further spread. Scientific institutions were mobilized to agree on protocols for assessment and treatment in order to lessen the impact of the pandemic in renal patients.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>
